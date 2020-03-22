@@ -1,0 +1,44 @@
+[DAY 1]
+>cd	go inside folder
+>ls	shows inside of the folder
+>date	shows date
+>cal MM YYYY	shows calendar
+>echo	print on command line
+>espeak-ng	text to speech
+
+
+[DAY 2]
+>watch -n [seconds]	keep running commands at intervals
+>sleep [seconds]	freezes cli
+>jobs	shows programs running in background
+>fg [index]	brings program to foreground
+>man	shows manual
+>ifconfig	shows networking information
+>bash [filename]	runs script
+
+
+[DAY 3]
+>ping [ip]	pings given ip address
+>nslookup [domainname]		provides ip of domain
+>bc	binary calculator
+
+
+[DAY 4]
+>ps-aux 	shows running processes
+>grep [keyword]		search
+>kill [processid]	ends process
+>mkdir .[foldername]	makes new folder
+>touch [filename]	creates empty file
+
+
+[DAY 5]
+>useradd [username]	adds new user
+>passwd [username] [password]		sets password
+>id	see user
+>whoami		see current account name
+>startx		change cli to gui
+>chvt		change terminal
+>tty		shows terminal name
+>logout		logsout user
+>clear		clear screen
+>reset		reset to default
